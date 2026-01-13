@@ -135,7 +135,7 @@ def process_query(user_query):
 # --- ROUTES ---
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('llm_frontend.html')
 
 @app.route('/ask', methods=['POST'])
 def ask():
