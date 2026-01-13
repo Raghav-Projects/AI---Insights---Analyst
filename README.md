@@ -13,7 +13,6 @@ A pretrained AI Chatbot that connects to raw data files (Excel, Feather, Google 
     * 📥 Export to PDF: Download a full analysis report.
     * 📊 Export Data: Download processed tables as Excel/CSV.
 
-# Reference Video - Watch
  🛠️ Tech Stack
 * Frontend: [Streamlit / React / Other]
 * Data Processing: Pandas, Feather-Format, OpenPyxl
